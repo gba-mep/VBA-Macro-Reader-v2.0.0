@@ -2,7 +2,7 @@
   "name": "vba-reader",
   "version": "2.0.0",
   "description": "VBA Macro Reader & Operator - Read, modify, and execute VBA macro code",
-  "author": "David-CB666",
+  "author": "gba-mep",
   "license": "MIT",
   "keywords": [
     "vba",
@@ -14,7 +14,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/David-CB666/VBA-Macro-Reader-v2.0.0.git"
+    "url": "https://github.com/gba-mep/VBA-Macro-Reader-v2.0.0.git"
   },
   "engines": {
     "python": ">=3.10"
